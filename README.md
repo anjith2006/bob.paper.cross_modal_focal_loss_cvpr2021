@@ -1,7 +1,5 @@
 # Cross Modal Focal Loss for RGBD Face Anti-Spoofing
 ==================================================
-Cross Modal Focal Loss for RGBD Face Anti-Spoofing
-==================================================
 
 This package is part of the signal-processing and machine learning toolbox Bob_. 
 
